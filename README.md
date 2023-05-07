@@ -40,5 +40,3 @@ April 1 2022.ipynb: Data preprocessing done on April 1st, 2022 data and sentimen
 Data Preprocessing.ipynb: Data preprocessing attempt on the entire dataset.
 
 # Citations
-
-ChatGPT
